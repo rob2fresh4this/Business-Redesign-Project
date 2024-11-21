@@ -146,6 +146,63 @@ body {
   width: 50%;
 }
 
+/* Jobs */
+
+/* contact us page */
+
+/* contact us page */
+
+/* the form */
+
+.form-container {
+  width: 85%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.form-title {
+  color: #ee2123;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.form-subtitle {
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-row {
+  display: flex;
+  gap: 10px;
+}
+
+.from-space{
+  width: 50%;
+}
+
+.form-input,
+.form-textarea {
+  width: 100%;
+  background-color: yellow;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 15px;
+  font-size: 16px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.form-textarea {
+  height: 100px;
+  resize: none;
+}
+
+/* the form  */
 
 
 
