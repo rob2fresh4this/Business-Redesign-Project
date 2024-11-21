@@ -3,6 +3,36 @@ body {
   color: white !important;
 }
 
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end !important;
+}
+
+.button-normal {
+  background-color: black;
+  color: yellow;
+  border: 2px solid yellow;
+  border-radius: 50px;
+  padding: 10px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.button-normal:hover {
+  background-color: yellow;
+  color: black;
+}
+
+
 /* home page */
 .size {
   width: 4rem;
@@ -19,11 +49,6 @@ body {
 
 .home-container1-box {
   width: 49%;
-}
-
-.flex-end {
-  display: flex;
-  justify-content: flex-end !important;
 }
 
 .home-container1-image {
@@ -88,6 +113,41 @@ body {
   flex-direction: column;
   align-items: flex-end;
 }
+/* location page */
+
+/* Jobs */
+
+.Job-img-size{
+  width: 85%;
+}
+
+.jobs-container{
+  width: 85%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #F1D60C;
+}
+
+.jobs-image-container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jobs-image-container1{
+  width: 50%;
+  display: flex;
+}
+
+.jobs-image-fix{
+  width: 50%;
+}
+
+
+
 
 footer {
   width: 100%;
