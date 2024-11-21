@@ -3,6 +3,7 @@ body {
   color: white !important;
 }
 
+/* home page */
 .size {
   width: 4rem;
 }
@@ -35,13 +36,58 @@ body {
   margin: auto;
   display: flex;
   flex-direction: column;
-  color: #EE2123;
+  color: #ee2123;
   justify-content: center;
   align-items: center;
 }
 
+/* home page */
 
+/* location page */
 
+.LocationsHead {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.location-container1 {
+  width: 85%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.location-container1-box {
+  width: 60%;
+  border: white 1px solid;
+}
+
+.location-box-header{
+  color: #ee2123;
+}
+
+.link-change{
+  color: white;
+}
+.link-change:hover{
+  color: #F1D60C;
+}
+
+.location-container1-box-info {
+  margin-bottom: 3rem;
+  height: 120px;
+}
+
+.location-container1-image {
+  width: 40%;
+  border: white 1px solid;
+  flex-direction: column;
+  align-items: flex-end;
+}
 
 footer {
   width: 100%;
