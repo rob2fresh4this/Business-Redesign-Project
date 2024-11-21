@@ -83,3 +83,16 @@ body {
 .cll-mnuLi {
     padding: 0 5px;
 }
+
+.containerGLR{
+    width: 85%;
+    padding-right:15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img-gl-2{
+    width:50%;
+    height:50%;
+}
