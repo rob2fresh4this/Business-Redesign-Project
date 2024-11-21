@@ -1,0 +1,49 @@
+body {
+    background-color: black !important;
+    color: white !important;
+  }
+
+.cl-r{
+    color: red;
+}
+
+.cl-yl{
+    background-color:#F1D60C;
+}
+
+.cl-bl{
+    color:black;
+}
+
+.accordion-button {
+    background-color:black !important;
+    color: white !important;
+}
+
+.accordion-body{
+    background-color:black !important;
+    color: white !important;
+}
+
+.containerAC{
+    width: 70%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #F1D60C;
+}
+
+.containerHC{
+    width: 85%;
+    padding-right: var(--bs-gutter-x, 15px);
+    padding-left: var(--bs-gutter-x, 15px);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.im-cr{
+    width: 100%;
+}
