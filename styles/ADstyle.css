@@ -196,4 +196,10 @@ body {
     .pd-bt {
         padding-bottom: 20px;
     }
+    .rstxL{
+        font-size: 10px;
+    }
+    .rstxS{
+        font-size: 7px;
+    }
 }
