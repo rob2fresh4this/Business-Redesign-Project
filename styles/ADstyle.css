@@ -96,3 +96,20 @@ body {
     width:50%;
     height:50%;
 }
+
+.pd-bt{
+    padding-bottom: 50px;
+}
+
+.ctr{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card{
+    background-color: black !important;
+}
+
+.card-text{
+    color: white !important;
+}
