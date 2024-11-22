@@ -357,3 +357,19 @@ footer{
 
 /* policies page */
 
+/* media screens */
+
+/* medium-screen */
+@media screen and (min-width: 993px) and (max-width: 1439px) {
+}
+
+/* i pad */
+@media screen and (max-width: 992px) {
+  .button-normal{
+    margin-top: 100px;
+  }
+}
+
+@media (max-width: 768px){
+
+}
