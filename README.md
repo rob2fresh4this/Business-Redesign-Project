@@ -21,18 +21,19 @@
 #### Your Names:  Robert G., Anthony D., and 
 
 #### Date Revised  
-- [Last date you saved your work.]  
+- [11/22/24]  
 
 #### Exercise or Lab Name  
-- [Include the name of the assignment.]  
-
-#### Brief Description  
-- [Summarize what you worked on.]  
+- [Business Redesign]  
 
 #### Revision History  
-- [Log each date and what was updated.]  
+- [11/18/14] Figam Work / find a site to work on 
+- [11/19/14] worked on figma/worked on desktop
+- [11/20/14] worked on figma/worked on mobile
+- [11/21/14] worked on the code/made the desktop
+- [11/22/14] worked on the code/made the desktop responsive 
 
-#### Peer Reviewer  
+## Peer Reviewer  
 - [Name of the person who peer-reviewed your assignment.]  
 
 ---
