@@ -266,8 +266,7 @@ footer {
 }
 
 .job-img-size {
-  width: 100%;
-  max-width: 800px;
+  width: 85%;
   margin-bottom: 20px;
 }
 
@@ -443,8 +442,8 @@ footer {
   }
 
   .jobs-image-grid {
-    grid-template-columns: repeat(2, 1fr); /* Two images per row */
-    gap: 15px; /* Adjust spacing between items */
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
   }
 
   .job-img-size {
