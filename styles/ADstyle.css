@@ -154,3 +154,46 @@ body {
 .accordion-container {
     margin-top: 20px;
 }
+
+/* RESP */
+
+@media (max-width: 768px) {
+    .containerYLWbar, .containerMbar, .containerAC, .containerHC, .containerGLR {
+        width: 95%;
+        padding: 10px;
+    }
+
+    .row2 {
+        flex-direction: column; /* Stack flex items vertically on mobile */
+    }
+
+    .img-gl-2 {
+        width: 100%; /* Make image responsive */
+        height: auto;
+    }
+
+    .cll-mnu, .cll-mnuLi {
+        font-size: 14px; /* Smaller font size for mobile */
+    }
+
+    .accordion-button, .accordion-body {
+        padding: 10px;
+    }
+
+    .menu-bar {
+        padding: 10px;
+    }
+
+    .menu-bar a {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+
+    .card {
+        margin-bottom: 20px;
+    }
+
+    .pd-bt {
+        padding-bottom: 20px;
+    }
+}
