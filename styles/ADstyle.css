@@ -106,6 +106,12 @@ body {
     margin-right: auto;
 }
 
+.center-button {
+    display: flex;  
+    justify-content: center; 
+    align-items: center;
+}
+
 .card{
     background-color: black !important;
 }
