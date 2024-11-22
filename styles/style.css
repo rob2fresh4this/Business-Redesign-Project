@@ -346,7 +346,7 @@ footer {
 .form-input,
 .form-textarea {
   width: 100%;
-  background-color: yellow;
+  background-color: #fecc00;
   border: none;
   border-radius: 25px;
   padding: 10px 15px;
