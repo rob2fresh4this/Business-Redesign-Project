@@ -12,23 +12,27 @@
 
 <body>
 
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg bg-dark">
         <div class="container-fluid">
-            <img class="size" src="./assets-Business-Redesign/Logo.png" alt="Logo">
+            <a class="navbar-brand" href="#">
+                <img class="size" src="./assets-Business-Redesign/Logo.png" alt="Logo">
+            </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    <a class="nav-link" href="#">Features</a>
-                    <a class="nav-link" href="#">Pricing</a>
-                    <a class="nav-link" href="#">ect.</a>
+            <div class="collapse navbar-collapse d-lg-flex justify-content-lg-between align-items-center" id="navbarNavAltMarkup">
+                <div class="navbar-nav mx-auto">
+                    <a class="nav-link text-yellow" href="./index.html">Home</a>
+                    <a class="nav-link text-yellow" href="./pages/NavPages/Menu.html">Menu</a>
+                    <a class="nav-link text-yellow" href="./pages/NavPages/Locations.html">Locations</a>
+                    <a class="nav-link text-yellow" href="./pages/NavPages/Gallery.html">Gallery</a>
                 </div>
+                <a href="#" class="button-normal">Order Now</a>
             </div>
         </div>
     </nav>
+    
 
     <br><br><br><br><br><br>
 
@@ -75,9 +79,34 @@
     <br><br><br>
 
     <footer>
-        content
+        <div class="footer-container-links">
+            <a class="footer-link" href="./pages/FooterPages/Jobs.html"><p>JOBS</p></a>
+            <a class="footer-link" href="./pages/FooterPages/FAQ.html"><p>FAQs</p></a>
+            <a class="footer-link" href="./pages/FooterPages/Contact.html"><p>Contact</p></a>
+            <a class="footer-link" href="./pages/FooterPages/Franchise.html"><p>Franchise Opportunities</p></a>
+            <a class="footer-link" href="./pages/FooterPages/Policies.html"><p>Policies</p></a>
+            <a class="footer-link" href="./pages/FooterPages/HalalChicken.html"><p>Halal Chicken</p></a>
+        </div>
+        <div class="footer-container-icons">
+            <a href="#" class="social-link">
+                <img src="./assets-Business-Redesign/Social Media Icons/tiktok.png" alt="tiktok">
+            </a>
+            <a href="#" class="social-link">
+                <img src="./assets-Business-Redesign/Social Media Icons/twitter-sign.png" alt="twitter">
+            </a>
+            <a href="#" class="social-link">
+                <img src="./assets-Business-Redesign/Social Media Icons/instagram.png" alt="instagram">
+            </a>
+            <a href="#" class="social-link">
+                <img src="./assets-Business-Redesign/Social Media Icons/facebook.png" alt="facebook">
+            </a>            
+        </div>
+        <div class="footer-copyrights">
+            <p>COPYRIGHT © 2024 NASH + TENDER. ALL RIGHTS RESERVED.</p>
+        </div>
     </footer>
 
+    <script src="https://kit.fontawesome.com/dafbd09c3c.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
