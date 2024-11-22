@@ -3,10 +3,18 @@ body {
   color: white !important;
 }
 
+.white{
+  color: white!important;
+}
+
 .center{
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.red{
+  color: #ee2123;
 }
 
 .flex-end {
@@ -97,7 +105,7 @@ body {
 }
 
 .link-change{
-  color: white;
+  color: wheat;
 }
 .link-change:hover{
   color: #F1D60C;
@@ -204,7 +212,19 @@ body {
 
 /* the form  */
 
+/* policies page */
+.policies-container{
+  width: 85%;
+  margin: auto;
+  color: #F1D60C;
+  margin-bottom: 2rem;
+}
 
+.brake-line{
+  border-bottom: 1px solid white;
+}
+
+/* policies page */
 
 footer {
   width: 100%;
