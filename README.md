@@ -34,7 +34,8 @@
 - [11/22/14] worked on the code/made the desktop responsive 
 
 ## Peer Reviewer  
-- [Name of the person who peer-reviewed your assignment.]  
+- Juan Heredia: Nice over all, the buttons work fine and most of the responsiveness works, maybe try to make it so the images on the home page drop below the text after a certain width? just my nitpicktho, also there seems to be a lot of place holders
+  dont know if thats intentional, but besides that everything looks fine
 
 ---
 
